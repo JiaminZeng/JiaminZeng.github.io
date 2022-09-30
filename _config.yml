@@ -4,10 +4,10 @@
 baseurl:
 url: https://jiaminzeng.github.io
 date_format: "ordinal"
-title: ins
-subtitle: "--------------"
-description: "-----------------------"
-keywords: 
+title: ZJM's Blog
+subtitle: "Tomorrow Will Be Better ~"
+description: 慢慢尝试
+keywords: IT
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份

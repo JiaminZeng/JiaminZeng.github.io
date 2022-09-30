@@ -1,7 +1,35 @@
-- name: JiaminZeng
+- name: Blog (ZJM)
   url: https://jiaminzeng.github.io
   src: life
 
-- name: JiaminZeng
-  url: https://jiaminzeng.github.io
+- name: Github (ZJM)
+  url: https://github.com/JiaminZeng
+  src: life
+
+- name: Z-Library (电子书)
+  url: https://z-lib.org
+  src: www
+
+- name: Subhd (影视)
+  url: https://subhd.tv
+  src: www
+
+- name: Github (代码仓)
+  url: https://github.com
+  src: www
+
+- name: FileConversion (文件转换)
+  url: https://www.aconvert.com/cn/
+  src: www
+
+- name: SoundCloud (音频压缩)
+  url: https://soundcloud.com
+  src: www
+ 
+- name: BreachForums (数据库论坛)
+  url: https://breached.to/
+  src: www
+
+- name: CppReference (C++)
+  url: https://en.cppreference.com/w/
   src: www

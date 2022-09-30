@@ -1,16 +1,16 @@
 - name: Software Engineer Keywords
   keywords:
-      - ---
-      - C++
       - Python
+      - C/C++
+      - ---
       - ---
 
-- name: ----
+- name: ---
   keywords:
       - ---
       - ---
 
-- name: ----
+- name: ---
   keywords:
       - ---
       - ---
