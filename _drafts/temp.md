@@ -89,5 +89,3 @@
    3. **Applications to TriviA-SC and Kreyvium**，总结说明这块做到了一个什么程度
 
 ## Conclusions
-
-结论，文章做了啥，意义在哪，未来准备去做啥

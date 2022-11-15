@@ -10,5 +10,5 @@ keywords: Paper, Link
 
 ## List
 
-1. [x] DWT-GBT-SVD-based Robust Speech Steganography
-2. [x] Adaptive QIM with Minimum Embedding Cost for Robust Video Steganography on Social Networks
+1. [x]  DWT-GBT-SVD-based Robust Speech Steganography
+2. [x]  Adaptive QIM with Minimum Embedding Cost for Robust Video Steganography on Social Networks
